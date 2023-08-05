@@ -37,7 +37,7 @@ The path to "root_dir" should be specified in global_configs.py.
 We have two scripts for each model to perform the training. The first one runs the vanilla training process, while 
 the second one runs the curriculum learning procedure. These scripts can be invoked via main.py from each directory.
 
-A special case is the U-Net because it expects the captions and it also works in latent space of StableDiffusion, thus it requires
+A special case is the U-Net because it expects the captions and it also works in the latent space of StableDiffusion, thus it requires
 a preliminary step to map the images in this latent space(not included in the repo).
 For captioning we used BLIP: https://github.com/salesforce/BLIP
 
