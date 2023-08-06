@@ -9,7 +9,7 @@ Create a conda environment and run pip install:
 ```bash
 conda create -n <name_env> python=3.9
 conda activate <name_env>
-pip install -r requirements
+pip install -r requirements.txt
 ```
 The code expects a data set of image and text pairs, stored as follows:
 ```bash
