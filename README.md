@@ -1,7 +1,7 @@
 # Reverse Stable Diffusion: What prompt was used to generate this image?
 ### Introduction
 
-This contains implements the training procedure introduced in: "Reverse Stable Diffusion: What prompt was
+This repository contains the training procedure introduced in: "Reverse Stable Diffusion: What prompt was
 used to generate this image?" on the image-to-text-embedding task: https://arxiv.org/abs/2308.01472
 
 ### Prerequisites
